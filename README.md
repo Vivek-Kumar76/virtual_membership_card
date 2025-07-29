@@ -2,6 +2,8 @@
 It generate each time new QR code when got refreshed . Here is video of how it works.
 A new Flutter project.
 
+Here is video link of how it is working :  https://youtu.be/JNGYVnqlons
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
