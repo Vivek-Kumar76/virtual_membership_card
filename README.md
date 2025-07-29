@@ -1,5 +1,5 @@
 # virtual_membership_card
-
+It generate each time new QR code when got refreshed .
 A new Flutter project.
 
 ## Getting Started
